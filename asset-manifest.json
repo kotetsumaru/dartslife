@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dartslife/static/css/main.d733631f.chunk.css",
+    "main.js": "/dartslife/static/js/main.e6cef9de.chunk.js",
+    "main.js.map": "/dartslife/static/js/main.e6cef9de.chunk.js.map",
+    "runtime-main.js": "/dartslife/static/js/runtime-main.2609483e.js",
+    "runtime-main.js.map": "/dartslife/static/js/runtime-main.2609483e.js.map",
+    "static/js/2.98c3dbfc.chunk.js": "/dartslife/static/js/2.98c3dbfc.chunk.js",
+    "static/js/2.98c3dbfc.chunk.js.map": "/dartslife/static/js/2.98c3dbfc.chunk.js.map",
+    "index.html": "/dartslife/index.html",
+    "precache-manifest.4119eb7449a9a86b3a0473b250d7c07f.js": "/dartslife/precache-manifest.4119eb7449a9a86b3a0473b250d7c07f.js",
+    "service-worker.js": "/dartslife/service-worker.js",
+    "static/css/main.d733631f.chunk.css.map": "/dartslife/static/css/main.d733631f.chunk.css.map",
+    "static/js/2.98c3dbfc.chunk.js.LICENSE.txt": "/dartslife/static/js/2.98c3dbfc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dartslife/static/media/dartslife-back.90a9f920.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2609483e.js",
+    "static/js/2.98c3dbfc.chunk.js",
+    "static/css/main.d733631f.chunk.css",
+    "static/js/main.e6cef9de.chunk.js"
+  ]
+}
