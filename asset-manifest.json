@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dartslife/static/css/main.d733631f.chunk.css",
+    "main.css": "/dartslife/static/css/main.99a9224e.chunk.css",
     "main.js": "/dartslife/static/js/main.df126ba9.chunk.js",
     "main.js.map": "/dartslife/static/js/main.df126ba9.chunk.js.map",
     "runtime-main.js": "/dartslife/static/js/runtime-main.2609483e.js",
@@ -8,16 +8,16 @@
     "static/js/2.98c3dbfc.chunk.js": "/dartslife/static/js/2.98c3dbfc.chunk.js",
     "static/js/2.98c3dbfc.chunk.js.map": "/dartslife/static/js/2.98c3dbfc.chunk.js.map",
     "index.html": "/dartslife/index.html",
-    "precache-manifest.07234063e7f3bf31397ccf2ca542ca5c.js": "/dartslife/precache-manifest.07234063e7f3bf31397ccf2ca542ca5c.js",
+    "precache-manifest.d1cb2fccfa1eacbf44a41d45dcf8dbe1.js": "/dartslife/precache-manifest.d1cb2fccfa1eacbf44a41d45dcf8dbe1.js",
     "service-worker.js": "/dartslife/service-worker.js",
-    "static/css/main.d733631f.chunk.css.map": "/dartslife/static/css/main.d733631f.chunk.css.map",
+    "static/css/main.99a9224e.chunk.css.map": "/dartslife/static/css/main.99a9224e.chunk.css.map",
     "static/js/2.98c3dbfc.chunk.js.LICENSE.txt": "/dartslife/static/js/2.98c3dbfc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dartslife/static/media/dartslife-back.90a9f920.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2609483e.js",
     "static/js/2.98c3dbfc.chunk.js",
-    "static/css/main.d733631f.chunk.css",
+    "static/css/main.99a9224e.chunk.css",
     "static/js/main.df126ba9.chunk.js"
   ]
 }
